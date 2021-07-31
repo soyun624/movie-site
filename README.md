@@ -12,16 +12,16 @@ Website: https://soyun-tvshow.netlify.app
 ## Details
 
 ### Home
-![](docs/home.png)
+![](images/homepage.png)
 
-### Order
-![](docs/order.png)
+### Detail
+![](images/detailpage.png)
 
-### Reservation
-![](docs/reservation.png)
+### About
+![](images/aboutpage.png)
 
-### Access
-![](docs/access.png)
+### Favorite
+![](images/favoritpage.png)
 
-### Contact
-![](docs/contact.png)
+### discoverpage
+![](images/discoverpage.png)
